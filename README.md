@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Shanae👋
+By day, I'm a pharmacy technician & by night, I'm building my future in tech. I'm learning JavaScript, Git and GitHub one project at a time as I work toward becoming a software engineer.
+
 
 <!--
 **helloimshanae/helloimshanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
