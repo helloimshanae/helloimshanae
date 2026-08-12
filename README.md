@@ -1,6 +1,14 @@
 # Hello, I'm Shanae👋
 By day, I'm a pharmacy technician & by night, I'm building my future in tech. I'm learning JavaScript, Git and GitHub one project at a time as I work toward becoming a software engineer.
 
+## Badges
+<p align="center">
+  <img src="JavaScript_Fundamentals.png" alt="Badge 1 JavaScript Fundamentals" width="150">
+  <img src="Modern_Dev_Fundamentals.png" alt="Badge 2 Modern Developer Fundamentals" width="150">
+  <img src="Web_Developer_Fundamentals.png" alt="Badge 3 Web Developer Fundamentals" width="150">
+  <img src="Web_Foundations.png" alt="Badge 4 Web Foundations" width="150">
+</p>
+
 ## Fun Facts
 #### 💻 Software Development Fun Fact:
 - The world's first computer programmer was a woman - Ada Lovelace. Long before modern computers existed, she wrote what is considered the first computer algorithm in the 1840s. Her work helped lay the foundation for programming as we know it today. She detailed how the machine could repeat a series of instructions, introducing the core programming concept of looping. 
