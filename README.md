@@ -3,10 +3,10 @@ By day, I'm a pharmacy technician & by night, I'm building my future in tech. I'
 
 ## Badges
 <p align="center">
-  <img src="JavaScript_Fundamentals.png" alt="Badge 1 JavaScript Fundamentals" width="150">
-  <img src="Modern_Dev_Fundamentals.png" alt="Badge 2 Modern Developer Fundamentals" width="150">
-  <img src="Web_Developer_Fundamentals.png" alt="Badge 3 Web Developer Fundamentals" width="150">
-  <img src="Web_Foundations.png" alt="Badge 4 Web Foundations" width="150">
+  <img src="./Badges/JavaScript_Fundamentals.png" alt="Badge 1 JavaScript Fundamentals" width="150">
+  <img src="./Badges/Modern_Dev_Fundamentals.png" alt="Badge 2 Modern Developer Fundamentals" width="150">
+  <img src="./Badges/Web_Developer_Fundamentals.png" alt="Badge 3 Web Developer Fundamentals" width="150">
+  <img src="./Badges/Web_Foundations.png" alt="Badge 4 Web Foundations" width="150">
 </p>
 
 ## Fun Facts
